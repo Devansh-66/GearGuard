@@ -57,10 +57,6 @@
    npm run dev:web   # Starts Frontend (Vite)
    ```
 
-## 📸 Screenshots
-
-*(Add screenshots of Dashboard, Kanban Board, and Reports here)*
-
 ## 📄 License
 
 This project is licensed under the MIT License.
