@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 
-- **Authentication**: Secure Role-Based Access Control (RBAC) for Managers and Technicians.
+- **Authentication**: Signup and login feature.
 - **Equipment Management**:
     - Categorized inventory (Machinery, Computers, Tools).
     - Detailed asset tracking (Location, Status, purchase history).
