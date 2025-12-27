@@ -1,0 +1,9 @@
+name = "gearguard-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "gearguard-db"
+database_id = "local-db-id"
+migrations_dir = "../../packages/db/drizzle"

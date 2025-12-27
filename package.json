@@ -1,0 +1,20 @@
+{
+    "name": "gearguard-root",
+    "private": true,
+    "workspaces": [
+        "packages/*",
+        "apps/*"
+    ],
+    "scripts": {
+        "dev:api": "npm run dev --workspace=apps/api",
+        "dev:web": "npm run dev --workspace=apps/web",
+        "db:generate": "npm run generate --workspace=packages/db"
+    },
+    "dependencies": {
+        "@radix-ui/react-dialog": "^1.1.15",
+        "drizzle-orm": "^0.45.1"
+    },
+    "devDependencies": {
+        "drizzle-kit": "^0.31.8"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "@gearguard/db",
+    "version": "0.0.0",
+    "main": "src/index.ts",
+    "types": "src/index.ts",
+    "scripts": {
+        "generate": "drizzle-kit generate",
+        "up": "drizzle-kit up"
+    },
+    "peerDependencies": {
+        "drizzle-orm": "*"
+    }
+}

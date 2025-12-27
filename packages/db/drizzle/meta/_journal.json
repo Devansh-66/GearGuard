@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1766821687523,
+      "tag": "0000_flaky_moira_mactaggert",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1766822319199,
+      "tag": "0001_third_tyger_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1766831767725,
+      "tag": "0002_lumpy_roughhouse",
+      "breakpoints": true
+    }
+  ]
+}
